@@ -2,10 +2,11 @@
 
 ## quick start (feel the convenience of use tcl script to generate project)
 1. clone this repository
-2. open Vivado tcl console
-3. `cd` to the directory of this repository
-4. `source ./tcl/prj_gen.tcl` and wait for the project to be generated
-5. run simulation
+2. edit path in ./tcl/prj_gen.tcl to your own path at line39 40
+3. open Vivado tcl console
+4. `cd` to the directory of this repository
+5. `source ./tcl/prj_gen.tcl` and wait for the project to be generated
+6. run simulation
 
 ## how to use git to manage Vivado project
 1. create a new Vivado project
