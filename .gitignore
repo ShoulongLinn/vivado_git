@@ -1,0 +1,20 @@
+# Ignore Vivado generated files
+*.jou  # Ignore Journal files
+*.log  # Ignore Log files
+*.str  # Ignore Strategy files
+*.bin  # Ignore Binary files
+*.rpt  # Ignore Report files
+*.html # Ignore HTML files
+*.xml  # Ignore XML files
+*.xpr  # Ignore Project files
+*.xsa  # Ignore Xilinx Support Archive files
+*.ltx  # Ignore Logic Trace files
+*.wcfg # Ignore Waveform Configuration files
+*.wdb  # Ignore Waveform Database files
+*.pb   # Ignore Project Backup files
+
+./vivado_git
+
+
+# Ignore Vivado SDK directories
+.sdk
